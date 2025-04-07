@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fab & Fierce Fashion Store
 
 A modern, full-stack e-commerce platform built with Next.js, FastAPI, and SQLite, featuring a beautiful UI and rich functionality for fashion retail.
@@ -142,3 +143,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Icons from Lucide React
 - UI components from shadcn/ui
 - Next.js team for the amazing framework 
+=======
+# TREXIE
+>>>>>>> bae15b534f9083edb563b2d5b85795c2bebbb0dc
